@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/thaylla-nordt-das-neves" target="_blank">
+  <a href="https://www.linkedin.com/in/thaylla-nordt-das-neves-193110345/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="mailto:thaynnneves@gmail.com" target="_blank">
